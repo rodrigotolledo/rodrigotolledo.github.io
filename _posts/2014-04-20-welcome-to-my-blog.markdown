@@ -2,7 +2,6 @@
 layout: post
 title:  "Welcome to my blog!"
 date:   2014-04-20 20:12:18
-categories: jekyll update
 ---
 
 Hello everyone!
