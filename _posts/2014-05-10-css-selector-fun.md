@@ -8,11 +8,11 @@ A couple of weeks ago I was researching a little more about how to use CSS Selec
 
 So, do you want to learn CSS Selector in a cool way? Here is an awesome app/game made with JavaScript and some amazing CSS:
 
-http://flukeout.github.io/
+<a href="http://flukeout.github.io">http://flukeout.github.io</a>
 
 Basically, it's a simple game where you have to pick up fruits/objects from a table using CSS Selectors. The difficulty increases after each level.
 
-This knowledge can be extremely useful to find elements in a page when using frameworks like Selenium-WebDriver or Watir-WebDriver, for instance.
+This knowledge can be extremely useful to find elements in a page when using frameworks like <a href="http://docs.seleniumhq.org/projects/webdriver">Selenium-WebDriver</a> or <a href="http://watirwebdriver.com">Watir-WebDriver</a>, for instance.
 
 Have fun!
 
