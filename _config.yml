@@ -1,4 +1,5 @@
 name: Rodrigo Bonilha Tolledo
 markdown: redcarpet
 pygments: true
+url: http://rodrigotolledo.com
 exclude: [deploy]
