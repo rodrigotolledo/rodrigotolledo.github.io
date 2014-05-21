@@ -60,12 +60,18 @@ a:visited { color: #a0a; }
   text-align: justify;
   width: 42em;
   margin: 3em auto 2em;
-  line-height: 1.5em;
+  line-height: 2.5em;
+}
+
+.header {
+  border-top: 4px solid #eee;
+  border-bottom: 4px solid #eee;
 }
 
 .header a {
   font-weight: bold;
   text-decoration: none;
+  margin-right: 20px;
 }
 
 .title {
@@ -83,7 +89,6 @@ a:visited { color: #a0a; }
 
 .header a.extra {
   color: #aaa;
-  margin-left: 1em;
 }
 
 .header a.extra:hover {
