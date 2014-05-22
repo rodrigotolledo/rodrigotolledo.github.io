@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CSS Selector fun!"
+title:  "CSS Selector fun"
 date:   2014-05-10 23:15:00
 ---
 
