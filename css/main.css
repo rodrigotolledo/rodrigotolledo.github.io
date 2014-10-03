@@ -126,6 +126,18 @@ a:visited { color: #a0a; }
   border: 0;
 }
 
+.avatar img {
+  border-radius: 200px;
+  height: 124px;
+  width: 124px;
+}
+
+.avatar {
+  text-align: center;
+  height: 80px;
+  margin-top: 15px;
+}
+
 /*****************************************************************************/
 /*
 /* Posts
