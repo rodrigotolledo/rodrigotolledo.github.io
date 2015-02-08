@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rodrigo Bonilha Tolledo</title>
+    <description>Rodrigo Bonilha Tolledo</description>
+    <link>http://rodrigotolledo.com/</link>
+    <atom:link href="http://rodrigotolledo.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 08 Feb 2015 23:41:13 +1100</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2015 23:41:13 +1100</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Selenium WebDriver Workshop</title>
+        <description>&lt;p&gt;I’ve been quite busy in the past weeks helping to organize a Selenium WebDriver Workshop with some folks from ThoughtWorks Brazil. We ran the Workshop this weekend in Belo Horizonte, MG, Brazil. The participants were really excited and enjoyed a lot.&lt;/p&gt;
+
+&lt;p&gt;Here is the presentation (sorry, pt-BR only):&lt;/p&gt;
+
+&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/39721803&quot; width=&quot;427&quot; height=&quot;356&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+&lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://www.slideshare.net/ThoughtWorks/selenium-workshopbrasil-pdf&quot; title=&quot;Selenium Workshop &quot; target=&quot;_blank&quot;&gt;Selenium Workshop &lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/ThoughtWorks&quot; target=&quot;_blank&quot;&gt;ThoughtWorks&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+</description>
+        <pubDate>Thu, 02 Oct 2014 09:40:00 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2014/10/02/selenium-webdriver-workshop/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2014/10/02/selenium-webdriver-workshop/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Gatling: Take your Performance Tests to the next level!</title>
+        <description>&lt;p&gt;A few months ago I’ve published an article for ThoughtWorks about Performance Tests with &lt;a href=&quot;http://gatling.io/&quot;&gt;Gatling&lt;/a&gt;. Gatling is an &lt;a href=&quot;https://github.com/gatling/gatling&quot;&gt;open-source&lt;/a&gt; load testing tool written in Scala. One of the main points of this tool is writing performance tests through a DSL, easy to read, maintain and also treat it as production code.&lt;/p&gt;
+
+&lt;p&gt;The idea of this article was sharing my recent experience with a client where I had to develop some automated performance tests.&lt;/p&gt;
+
+&lt;p&gt;Check it out the full article here: &lt;a href=&quot;http://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level&quot;&gt;Gatling: Take Your Performance Tests to the next Level&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 17 Aug 2014 02:47:00 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2014/08/17/gatling-take-your-performance-tests-next-level/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2014/08/17/gatling-take-your-performance-tests-next-level/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Refresh Monkey add-on for Chrome</title>
+        <description>&lt;p&gt;I’m currently working in a project that has a simple UI that shows the current state of a bunch of process executions. From time to time I have to watch these executions and hit the Refresh button multiple times to see the executions in &lt;em&gt;“real time”&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;My colleague mentioned about a Chrome add-on called &lt;a href=&quot;https://chrome.google.com/webstore/detail/refresh-monkey/ljngnafhejmefmijjoedbclkadhacebd?hl=en&quot;&gt;Refresh Monkey&lt;/a&gt;. With this add-on you can easily configure how often you want to refresh your screen and avoid repetition.&lt;/p&gt;
+
+&lt;p&gt;Let the monkey work for you!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 May 2014 23:58:00 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2014/05/22/refresh-monkey-addon-for-chrome/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2014/05/22/refresh-monkey-addon-for-chrome/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>CSS Selector fun</title>
+        <description>&lt;p&gt;A couple of weeks ago I was researching a little more about how to use CSS Selectors effectively. There are a bunch of materials on the internet, but most of them are just a huge list of selectors which end up becoming a little boring after reading for a while.&lt;/p&gt;
+
+&lt;p&gt;So, do you want to learn CSS Selector in a cool way? Here is an awesome app/game made with JavaScript and some amazing CSS:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://flukeout.github.io&quot;&gt;http://flukeout.github.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Basically, it’s a simple game where you have to pick up fruits/objects from a table using CSS Selectors. The difficulty increases after each level.&lt;/p&gt;
+
+&lt;p&gt;This knowledge can be extremely useful to find elements in a page when using frameworks like &lt;a href=&quot;http://docs.seleniumhq.org/projects/webdriver&quot;&gt;Selenium-WebDriver&lt;/a&gt; or &lt;a href=&quot;http://watirwebdriver.com&quot;&gt;Watir-WebDriver&lt;/a&gt;, for instance.&lt;/p&gt;
+
+&lt;p&gt;Have fun!&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 11 May 2014 09:15:00 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2014/05/11/css-selector-fun/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2014/05/11/css-selector-fun/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome to my blog!</title>
+        <description>&lt;p&gt;Hello everyone!&lt;/p&gt;
+
+&lt;p&gt;My name is Rodrigo Bonilha Tolledo and I’ve just started this blog in order to start anything related to Software Development, mainly regarding Software Testing which is the area I’m currently working.&lt;/p&gt;
+
+&lt;p&gt;I’m graduated in Information Systems and I’ve been working in the IT field since 2005. Since then, I’ve played different roles such as Tester/Researcher, IT Analyst, Test Analyst and today I’m currently working as QA Consultant at ThoughtWorks Brazil in Porto Alegre/RS - Brazil.&lt;/p&gt;
+
+&lt;p&gt;I’m still organizing this blog and hopefully I will be posting something useful (or not) from time to time :)&lt;/p&gt;
+
+&lt;p&gt;I hope you all enjoy!&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+
+&lt;p&gt;– Rodrigo Tolledo&lt;/p&gt;
+</description>
+        <pubDate>Mon, 21 Apr 2014 06:12:18 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2014/04/21/welcome-to-my-blog/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2014/04/21/welcome-to-my-blog/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
