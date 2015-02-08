@@ -1,4 +1,16 @@
-name: Rodrigo Bonilha Tolledo
-markdown: redcarpet
-pygments: true
-exclude: [deploy]
+# Site settings
+title: Rodrigo Bonilha Tolledo
+header-img: img/home-bg.jpg
+email: rodrigotolledo@gmail.com
+description: "Rodrigo Bonilha Tolledo"
+baseurl: ""
+url: "http://rodrigotolledo.com"
+github_username:  rodrigotolledo
+facebook_username:  rodrigo.tolledo
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
