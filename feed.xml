@@ -5,9 +5,27 @@
     <description>Rodrigo Bonilha Tolledo</description>
     <link>http://rodrigotolledo.com/</link>
     <atom:link href="http://rodrigotolledo.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 28 Feb 2015 20:45:15 +1100</pubDate>
-    <lastBuildDate>Sat, 28 Feb 2015 20:45:15 +1100</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2015 23:11:29 +1000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2015 23:11:29 +1000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Bug Magnet - Making Exploratory Testing easier</title>
+        <description>&lt;p&gt;Exploratory Testing is a pretty common activity in a QA’s life. It requires curiosity and a good amount of creativity in order to break and/or find defects in an application. Most of web applications have input fields that expect specific user data such as name, age, email, date of birth, credit card and so on. &lt;/p&gt;
+
+&lt;p&gt;So, how can we make sure these input fields can handle different kinds of data correctly?&lt;/p&gt;
+
+&lt;p&gt;As we know, a wide variety of test data could be used to verify how consistent these fields are. Sometimes it can be a bit tricky remembering different input possibilities and we may end up not validating the fields properly. In the past years, I’ve noticed that several web applications still do not handle well different kinds of data.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=en&quot;&gt;Bug Magnet&lt;/a&gt; is a Chrome Extension developed by &lt;a href=&quot;http://gojko.net/&quot;&gt;Gojko Adzik&lt;/a&gt; that brings some interesting test data to make your life easier when testing input fields. The tool is open source and is available in Github &lt;a href=&quot;https://github.com/gojko/bugmagnet&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 03 Jul 2015 09:00:00 +1000</pubDate>
+        <link>http://rodrigotolledo.com/2015/07/03/bug-magnet-making-exploratory-testing-easier/</link>
+        <guid isPermaLink="true">http://rodrigotolledo.com/2015/07/03/bug-magnet-making-exploratory-testing-easier/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Selenium WebDriver Workshop</title>
